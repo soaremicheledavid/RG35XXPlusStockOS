@@ -10,3 +10,6 @@ After that, go to APPS, and open the IMPROVED-Theme, it may take a few seconds, 
 - New elements & wallpapers;
 - customized bootlogo, shutdown splash;
 - new UI icons and navigation buttons, 
+
+
+GREY-MINIMAL-THEME is made for the first 2 stock os versions, after that, they changed the style and code, use the new release IMPROVED-Theme.
