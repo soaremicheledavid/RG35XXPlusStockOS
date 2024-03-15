@@ -13,8 +13,9 @@ After that, go to APPS, and open the IMPROVED-Theme, it may take a few seconds, 
 
 # Preview :
 
-![preview](https://github.com/soaremicheledavid/RG35XXPlusStockOS/assets/157101299/0f5402a4-3062-4a2c-8cd5-ea8ab7648022)
+![preview1](https://github.com/soaremicheledavid/RG35XXPlusStockOS/assets/157101299/82db05e5-e146-43ed-bee0-5f152a5eebae)
 
+![preview](https://github.com/soaremicheledavid/RG35XXPlusStockOS/assets/157101299/0f5402a4-3062-4a2c-8cd5-ea8ab7648022) 
 
 Tip > If you dont like the colors, you can change icons > icon settings > Style 2 > Icon 1 
 
